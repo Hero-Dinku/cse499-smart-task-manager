@@ -29,12 +29,12 @@ Students and professionals often struggle to keep track of daily tasks, deadline
 > "The secret of getting ahead is getting started." - Mark Twain
 > — *Asmamaw Dinku*
 
-> *[Daniel will add his favorite quote here]*
+> "The Savior's message is clear: His true disciples build, lift, encourage, persuade and inspire—no matter how difficult the situation. True disciples of Jesus Christ are peacemakers." - President Russell M. Nelson
+> — *Daniel*
 
 > *[Edwell will add his favorite quote here]*
 
 > *[Francios will add his favorite quote here]*
-
 ## 🛠️ Technology Stack
 
 - **Frontend**: React (Web), React Native (Mobile)
