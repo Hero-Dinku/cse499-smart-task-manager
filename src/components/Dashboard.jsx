@@ -14,7 +14,8 @@ const PIE_COLORS = ['#f43f5e', '#f59e0b', '#60a5fa', '#64748b']
 
 export default function Dashboard() {
   const { tasks, openModal, setView } = useTaskStore()
-  const stats = useTaskStore(s => s.getStats())
+  const getStats = useTaskStore(s => s.getStats)
+  const stats = getStats()
 
   const completionData = useMemo(() => {
     return Array.from({ length: 7 }, (_, i) => {
